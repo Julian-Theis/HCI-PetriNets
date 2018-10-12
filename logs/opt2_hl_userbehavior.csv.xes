@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This file has been generated with the OpenXES library. It conforms -->
+<!-- to the XML serialization of the XES standard for log storage and -->
+<!-- management. -->
+<!-- XES standard version: 1.0 -->
+<!-- OpenXES library version: 1.0RC7 -->
+<!-- OpenXES is available from http://www.openxes.org/ -->
+<log xes.version="1.0" xes.features="nested-attributes" openxes.version="1.0RC7">
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext"/>
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+	<trace>
+		<string key="concept:name" value="1"/>
+		<event>
+			<string key="concept:name" value="mouse to 2,1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:40.780-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 1,1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:41.035-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:41.204-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="explorer open"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:41.540-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 2,1"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:41.770-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 2,2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:42.019-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:42.156-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:42.549-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:42.961-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:43.384-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:43.715-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:43.926-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:44.368-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:44.938-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:45.470-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:45.920-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key NUM"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:46.506-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key 28"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:47.045-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="explorer path to documents/"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:47.045-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:47.150-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:47.539-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:47.894-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:48.248-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:48.687-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:49.055-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:49.389-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:49.662-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key 28"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:49.981-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="explorer path to documents/summary"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:49.981-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 3,2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:50.259-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 3,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:50.594-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse rightclick"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:50.722-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 3,2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:50.902-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:51.010-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:51.213-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:51.328-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:51.462-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key 14"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:52.110-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:52.484-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:53.119-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:53.445-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:53.827-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:54.217-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:54.594-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:54.995-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:55.385-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:55.720-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:56.133-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:56.647-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key 28"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:57.003-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 3,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:57.332-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 3,4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:57.505-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 4,4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:57.855-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:58.023-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="explorer minimize"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:58.318-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 3,4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:58.504-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 2,4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:58.865-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 2,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:59.165-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 1,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:59.471-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 1,2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:59.803-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:46:59.944-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="explorer maximize"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:00.382-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 1,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:00.660-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 2,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:00.889-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 3,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:01.255-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse doubleclick"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:01.459-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="notepad open"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:01.836-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 3,4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:03.581-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 4,4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:03.776-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:03.883-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="notepad minimize"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:04.317-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 3,4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:04.623-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 2,4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:04.912-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 1,4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:05.191-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 1,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:05.550-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 1,2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:05.805-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:05.979-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="explorer maximize"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:06.222-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key 14"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:06.636-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="explorer path to documents/"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:06.636-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 2,2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:06.800-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:06.963-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key NUM"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:07.203-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key NUM"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:07.627-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key NUM"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:07.990-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key NUM"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:08.429-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key 28"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:09.025-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="explorer path to documents/2017"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:09.025-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 3,2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:09.313-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 3,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:09.676-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse doubleclick"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:09.841-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="notepad open"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:10.313-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 4,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:13.082-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 4,4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:13.525-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:13.681-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="notepad minimize"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:14.127-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 4,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:14.491-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 3,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:14.696-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 3,2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:15.040-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 2,2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:15.138-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 1,2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:15.421-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:15.566-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="explorer maximize"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:15.949-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 1,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:16.250-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 2,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:16.644-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 3,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:16.942-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse doubleclick"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:17.133-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="notebook open"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:17.643-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 4,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:22.968-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 4,4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:23.200-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:23.283-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="notebook minimize"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:23.850-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 3,4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:24.179-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 3,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:24.532-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 3,2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:24.796-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 2,2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:25.001-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 1,2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:25.267-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:25.436-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="calculator open"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:25.821-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="calculator minimize"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:26.037-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:34.756-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="calculator maximize"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:35.227-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:35.329-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:35.500-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:35.643-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:35.802-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:35.947-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:36.088-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:36.202-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:36.409-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:36.569-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:36.773-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:36.954-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:37.104-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:37.224-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 2,2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:37.549-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 3,2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:37.848-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 4,2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:38.178-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 4,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:38.457-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 4,4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:38.742-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:38.927-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="calculator minimize"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:39.238-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 4,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:39.400-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 3,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:39.774-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 2,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:39.977-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 1,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:40.330-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 1,2"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:40.714-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:40.909-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="notepad maximize"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:41.548-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:44.908-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:45.344-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:45.896-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:46.333-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:46.607-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:46.980-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:47.388-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:47.958-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key NUM"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:48.290-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key NUM"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:48.580-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key NUM"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:49.037-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key NUM"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:49.523-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key NUM"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:50.094-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:50.612-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:50.929-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:51.228-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:51.663-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:52.071-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:52.499-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:53.164-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:53.726-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key TEXT"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:54.129-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key NUM"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:54.550-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key NUM"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:55.116-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key NUM"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:55.506-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key NUM"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:55.973-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="key NUM"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:56.341-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 1,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:56.584-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 2,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:56.901-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 2,4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:57.281-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:57.429-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 2,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:57.765-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:57.939-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 3,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:58.226-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 4,3"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:58.512-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse to 4,4"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:58.928-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:59.058-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="mouse click"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:59.242-06:00"/>
+		</event>
+		<event>
+			<string key="concept:name" value="notepad close"/>
+			<string key="lifecycle:transition" value="complete"/>
+			<date key="time:timestamp" value="1970-01-01T21:47:59.666-06:00"/>
+		</event>
+	</trace>
+</log>
