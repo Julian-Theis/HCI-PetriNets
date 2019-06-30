@@ -25,11 +25,12 @@ This project is the implementation of the approach introduced in  [Behavioral Pe
 }
 ```
 
-## Dependencies:
+## Project Dependencies
 Benchmark algorithm and metrics utilize [Raffaele Conforti's Research Code](https://github.com/raffaeleconforti/ResearchCode).
 
 ## Compile
 [Raffaele Conforti's Research Code](https://github.com/raffaeleconforti/ResearchCode) has to be installed in order to run this project code.
 
-## Acknowledgements
+## Further Acknowledgements
 The basic Petri net implementation is based on [Erko Rishtein's Petri net implementation](https://github.com/ErkoRisthein/conformance-checker/).
+Furthermore, we thank Raffaele Conforti for making available his research code.
