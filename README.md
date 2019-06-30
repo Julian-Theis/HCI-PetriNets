@@ -1,5 +1,5 @@
 # HCI-PetriNets
-This project is the implementation of the approach introduced in  [Behavioral Petri Net Mining and Automated Analysis for Human-Computer Interaction Recommendations in Multi-Application Environments](https://dl.acm.org/citation.cfm?id=3331155). Please cite this paper if you are using this project.
+This project is an implementation of the approach introduced in [Behavioral Petri Net Mining and Automated Analysis for Human-Computer Interaction Recommendations in Multi-Application Environments](https://dl.acm.org/citation.cfm?id=3331155). Please cite this paper if you are using this project.
 
 ## Bibtex
 ```
