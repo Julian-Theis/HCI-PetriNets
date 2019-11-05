@@ -34,3 +34,5 @@ Benchmark algorithm and metrics utilize [Raffaele Conforti's Research Code](http
 ## Further Acknowledgements
 The basic Petri net implementation is based on [Erko Rishtein's Petri net implementation](https://github.com/ErkoRisthein/conformance-checker/).
 Furthermore, we thank Raffaele Conforti for making his extensive research code available.
+
+[![HitCount](http://hits.dwyl.io/Julian-Theis/HCI-PetriNets.svg)](http://hits.dwyl.io/Julian-Theis/HCI-PetriNets)
